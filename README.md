@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kusum-fsd aka Kusu
 - 👀 I’m interested in always learnign new things
-- 🌱 I’m currently learning web development(font and end ....from A to Z) 
+- 🌱 I’m currently learning web development(font and back end ....from A to Z) 
 - 💞️ I’m looking to collaborate on for now lets call this void();
 - 📫 How to reach me? kusumtilgam92@gmail.com
 
