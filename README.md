@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kusum-fsd aka Kusum
 - 👀 I’m interested in always learning new things
-- 📫 U can reach me via => kusumtilgam92@gmail.com
+
 
 
 <!---
